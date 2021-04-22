@@ -27,3 +27,4 @@ Teach your virtual coffee machine to perform three basic actions: collect the mo
 Program the machine to display on the screen the amount of supplies left. Set the main loop: now the menu keeps updating until you enter “exit”.
 
 **Stage #6: Brush up your code**  
+Your final task is to refactor the program. Make it so that you can communicate with the coffee machine through a single method. Good luck!
